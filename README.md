@@ -1,8 +1,6 @@
 # Desafio Data Engineer - PD
 
-<img src="https://img.shields.io/apm/l/vim-mode"/>
-<img src="https://img.shields.io/badge/Challenge-PasseiDireto-green"/>
-<img src="https://img.shields.io/badge/DataEngineer-ETL-brightgreen"/>
+<img src="https://img.shields.io/apm/l/vim-mode"/> <img src="https://img.shields.io/badge/Challenge-PasseiDireto-green"/> <img src="https://img.shields.io/badge/DataEngineer-ETL-brightgreen"/>
 
 # Objetivo
 Este projeto visa atender ao desafio técnico para Data Engineer da empresa Passei Direto.
